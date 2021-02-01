@@ -6,12 +6,8 @@
 
 ## Contact
 
-- Address: **Sun Yat-sen University - 132 Waihuan East Rd. - Guangzhou, China**
-- Phone: **+86 18756280097**
-- Site: **<https://wu-kan.cn>**
 
-<!-- .slide vertical=true -->
-
+- Phone: **646-xxx-xxxx (if you can't see it,its cuz you stupid)**
 - E-mail:**[zipingl@seas.upenn.edu](mailto:zipingl@seas.upenn.edu)**
 - WeChat: **secret**
 - QQ: **1141825975**
