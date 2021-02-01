@@ -45,13 +45,6 @@ Lucille and Jay Chazanoff School of Business, College of Staten Island(CUNY),	Ne
 - **Certificate of Appreciation**, [College Of Staten Island](https://www.csi.cuny.edu/), MAY. 2018
 
 
-<!-- .slide vertical=true -->
-
-
-
-<!-- .slide vertical=true -->
-
-
 
 <!-- .slide -->
 
@@ -64,12 +57,6 @@ Lucille and Jay Chazanoff School of Business, College of Staten Island(CUNY),	Ne
 ## Blogs
 
 
-- [这一年的一点感想](https://wu-kan.cn/_posts/2019-07-18-%E8%BF%99%E4%B8%80%E5%B9%B4%E7%9A%84%E4%B8%80%E7%82%B9%E6%84%9F%E6%83%B3/)
-
-
-<!-- .slide vertical=true -->
-
-- [今日此时所想之事](https://wu-kan.cn/_posts/2020-01-24-%E4%BB%8A%E6%97%A5%E6%AD%A4%E6%97%B6%E6%89%80%E6%83%B3%E4%B9%8B%E4%BA%8B/)
 
 <!-- .slide -->
 
