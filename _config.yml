@@ -161,11 +161,12 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                   background-position: 0% 0%;
                   background-repeat: no-repeat;
                   background-attachment: fixed;
-                  background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2F699pic.com%2Ftupian%2Fxingkong.html&psig=AOvVaw2H4DWjW-09PB3M2Q2fgTYX&ust=1612307147857000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNDE7qvmye4CFQAAAAAdAAAAABAJ);
+                  background-image: url(/assets/image/kristopher-roller-110203-unsplash-m.jpg)
+                  #background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2F699pic.com%2Ftupian%2Fxingkong.html&psig=AOvVaw2H4DWjW-09PB3M2Q2fgTYX&ust=1612307147857000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNDE7qvmye4CFQAAAAAdAAAAABAJ);
                 }
                 @media (min-aspect-ratio: 2400/1850) {
                   .wrap {
-                    background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2F699pic.com%2Ftupian%2Fxingkong.html&psig=AOvVaw2H4DWjW-09PB3M2Q2fgTYX&ust=1612307147857000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNDE7qvmye4CFQAAAAAdAAAAABAJ);
+                    background-image: url(/assets/image/kristopher-roller-110203-unsplash-m.jpg);
                   }
                 }
                 .sidebar-overlay #sidebar-checkbox:checked ~ .wrap {
