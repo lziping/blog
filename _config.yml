@@ -140,7 +140,6 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                       "https:\/\/cdn.jsdelivr.net/gh/imuncle/live2d/model/mashiro/seifuku.model.json"]
                   });'
               ></script>
-            - | # 百度爬虫推送，http站点使用 http://push.zhanzhang.baidu.com/push.js
             - | # 网站背景图片，分竖屏、宽屏；改链接即可，不想用可以把这一项全删掉；要换壁纸图片的话可把url内的部分换成你自己的，比如你放在 /assets/image/background.jpg，那就改成 url(/assets/image/background.jpg)
               <style>
                 .wrap {
@@ -154,7 +153,6 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                   background-repeat: no-repeat;
                   background-attachment: fixed;
                   background-image: url(/assets/image/kristopher-roller-110203-unsplash-m.jpg)
-                  #background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2F699pic.com%2Ftupian%2Fxingkong.html&psig=AOvVaw2H4DWjW-09PB3M2Q2fgTYX&ust=1612307147857000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNDE7qvmye4CFQAAAAAdAAAAABAJ);
                 }
                 @media (min-aspect-ratio: 2400/1850) {
                   .wrap {
