@@ -1,6 +1,6 @@
 # HOMEPAGE
 
-欢迎访问我的个人主页！下面向你介绍一你的爸爸\~
+欢迎访问我的个人主页！下面向你介绍一下你的爸爸\~
 
 <!-- .slide -->
 
@@ -9,8 +9,7 @@
 
 - Phone: **646-xxx-xxxx (if you can't see it,its cuz you stupid)**
 - E-mail:**[zipingl@seas.upenn.edu](mailto:zipingl@seas.upenn.edu)**
-- WeChat: **secret**
-- QQ: **1141825975**
+
 
 <!-- .slide -->
 
