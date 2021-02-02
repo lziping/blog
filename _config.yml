@@ -79,11 +79,10 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                 src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.1/js/all.min.js"
               ></script>
             - | # 引入live2d看板娘！不需要可以把这一项都删掉
-              #<link
-              #  rel="stylesheet"
-              #  href="https://cdn.jsdelivr.net/gh/Dreamer-Paul/Pio@2.4/static/pio.min.css"
-              #/>
-              <link rel="stylesheet" href="/live2d/css/live2d.css" />
+              <link
+                rel="stylesheet"
+                href="https://cdn.jsdelivr.net/gh/Dreamer-Paul/Pio@2.4/static/pio.min.css"
+              />
               <script
                 async="async"
                 src="https://cdn.jsdelivr.net/combine/gh/Dreamer-Paul/Pio@2.4/static/l2d.min.js,gh/Dreamer-Paul/Pio@2.4/static/pio.min.js"
@@ -134,8 +133,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                         "text": "评论没有审核，要对自己的发言负责哦~"
                       }]
                     },
-                    "model": [
-                      "blog/live2d/chitose/chitose.model.json"
+                    "model":
                       "https:\/\/cdn.jsdelivr.net/gh/imuncle/live2d/model/33/model.2018.bls-winter.json",
                       "https:\/\/cdn.jsdelivr.net/gh/imuncle/live2d/model/platelet-2/model.json",
                       "https:\/\/cdn.jsdelivr.net/gh/imuncle/live2d/model/xiaomai/xiaomai.model.json",
