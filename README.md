@@ -64,16 +64,8 @@ Lucille and Jay Chazanoff School of Business, College of Staten Island(CUNY),	Ne
 
 <!-- .slide vertical=true -->
 
-- **C/C++**, Familiar
-  - **OpenMP**, Familiar
-  - **MPI**, Familiar&Learning
-  - **CUDA**, Familiar&Learning
 - **Python**, Familiar
+- **连续看20小时看电视不睡觉**, 
 
 <!-- .slide vertical=true -->
 
-- **Markdown**, Familiar
-- **$\LaTeX$**, Familiar
-- **Linux**, Familiar&Learning
-- **Git**, Familiar
-- **VSCode**, Familiar
