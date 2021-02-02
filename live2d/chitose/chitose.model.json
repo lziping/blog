@@ -2,7 +2,7 @@
 	"version":"Sample 1.0.0",
 	"model":"chitose.moc",
 	"textures":[
-		"assets/image/labixiao.png"
+		"chitose.2048/texture_00.png"
 	],
     "layout":
 	{
